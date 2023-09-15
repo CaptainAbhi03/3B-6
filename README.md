@@ -1,4 +1,4 @@
-public class MatrixAndJaggedArrayDemo {
+public class MatrixAndJagged {
     public static void main(String[] args) {
         // Matrix (2D Array)
         int[][] matrix = {
